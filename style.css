@@ -88,3 +88,10 @@ footer:hover {
 footer a{
   color: #00082F;
 }
+
+img.icon {
+  width: 28px;
+  height: 28px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+}
